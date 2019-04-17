@@ -1,7 +1,9 @@
 require_relative 'config/environment'
 
 class App < Sinatra::Base
-  get '/puppy' do 
+  
+  get '/' do 
+    
   end
 
 end
